@@ -1,0 +1,2 @@
+# testTask
+task for AttractGroup
